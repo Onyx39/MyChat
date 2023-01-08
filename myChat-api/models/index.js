@@ -51,7 +51,7 @@ const UserSchema = new Schema({
 });
 
 /**
- * Ce schema sera utilisé pour stocker les utilisateurs
+ * Ce schema sera utilisé pour stocker les messages entre 2 personnes
  * @schema : Message
  */
  const MessageSchema = new Schema({
