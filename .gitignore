@@ -1,5 +1,5 @@
-myChat-api/node_modules/
-myChat-website/node_modules/
+**/node_modules/
+**/.next/
 
 # Ficher de notes perso
 notes.txt
