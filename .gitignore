@@ -1,2 +1,5 @@
 myChat-api/node_modules/
 myChat-website/node_modules/
+
+# Ficher de notes perso
+notes.txt
